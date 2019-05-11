@@ -4,6 +4,7 @@
 
 #include "function_storage.h"
 #include <iostream>
+#include <cstring>
 
 uint8_t func[]{
         0xdb, 0x6c, 0x24, 0x08,

@@ -8,6 +8,7 @@
 #include <cstddef>
 #include <sys/mman.h>
 #include <algorithm>
+#include <cstdint>
 
 template <typename>
 struct function_storage {
